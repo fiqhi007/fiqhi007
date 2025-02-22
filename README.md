@@ -49,7 +49,7 @@
 </div>
 
 
-<p align="left">My name is Fiqhi and I'm a Frontend Web Dev, from Indonesia</p>
+<p align="left">👉 "Hello! My name is Fiqhi, and I’m a Frontend Web Developer based in Indonesia."</p>
 
 ###
 
